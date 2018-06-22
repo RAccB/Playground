@@ -1,0 +1,17 @@
+das
+hier
+soll
+ein
+File
+werden
+das
+einige
+Zeilen
+enthält
+um
+das
+Verhalten
+bei
+Konflikten
+zu
+testen
