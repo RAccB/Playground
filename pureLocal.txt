@@ -1,0 +1,2 @@
+Dieses File soll das ganze Projekt lang nur rein lokal existieren und niemals
+nie gepusht werden
